@@ -35,3 +35,4 @@ else
     Console.Write("max = ");
     System.Console.Write(max = b);
 }
+// какое из решений грамотнее?
